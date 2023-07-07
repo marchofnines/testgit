@@ -3,7 +3,7 @@ Que fyre a present!!?
 Serieusement
 ais je change quelque chose?
 
-New Features lines of code 
+New Features lines of code what will it show in git head
 
 Ok back to adding another feature in the main branch
 
